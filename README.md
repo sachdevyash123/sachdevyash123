@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sachdevyash123
-- 👀 I’m interested in making front-end and framework for website
+- 👀 I’m interested to work on MERN stack development.
 - 🌱 I’m currently learning React js,NodeJS,Express JS and MongoDb.
-- 💞️ I’m looking to collaborate on making website
+- 💞️ I’m looking to collaborate on making website.
 - 📫 You can reach me on github
 
 <!---
